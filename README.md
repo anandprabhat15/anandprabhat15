@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anand%20Prabhat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20GenAI%20%26%20Backend%20Systems%20%E2%80%A2%20Healthcare%20Tech&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anand%20Prabhat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20GenAI%20and%20Backend%20Systems%20%E2%80%A2%20Healthcare%20Tech&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Typing animation -->
@@ -83,10 +83,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anandprabhat15&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandprabhat15&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ## 🐍 Contribution snake
